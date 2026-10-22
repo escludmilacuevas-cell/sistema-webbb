@@ -1,6 +1,6 @@
 # Procrastinación Analytics
 
-Dashboard web interactivo conectado a tu MySQL local.
+Dashboard web interactivo conectado a MySQL local.
 
 ## Windows: instalar y ejecutar
 Abrí CMD dentro de esta carpeta y ejecutá:
@@ -23,12 +23,3 @@ py -m streamlit run app.py
 
 Abrí `http://localhost:8501` si el navegador no se abre automáticamente.
 
-## Incluye
-- Frontend oscuro estilo analytics.
-- Overview con indicadores.
-- Filtros de edad y variables categóricas detectadas.
-- Gráficos interactivos y cálculo de porcentajes.
-- Exploración y descarga CSV.
-- Inspección de columnas para adaptarse a la tabla instalada.
-
-No compartas el archivo `.env` ni subas tu contraseña a GitHub.
