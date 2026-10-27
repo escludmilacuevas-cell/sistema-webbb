@@ -17,7 +17,5 @@ Luego iniciá la web:
 
 ```bat
 py -m streamlit run app.py
-```
-
-Abrí `http://localhost:8501` si el navegador no se abre automáticamente.
+```Abrí `http://localhost:8501` si el navegador no se abre automáticamente.
 
