@@ -3,3 +3,4 @@ pandas
 plotly
 mysql-connector-python
 python-dotenv
+openpyxl
